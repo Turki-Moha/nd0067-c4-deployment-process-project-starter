@@ -5,7 +5,7 @@
 ---
 # project URL
 - Udagram API: http://udagram-api-dev101.eba-eitbwiwr.us-east-1.elasticbeanstalk.com/
-- Udagram frontend: http://turki-kazman-udagram.s3-website-us-east-1.amazonaws.com/home
+- Udagram frontend: http://turki-kazman-udagram.s3-website-us-east-1.amazonaws.com
 
 # Diagrams
 ## pipeline diagram
